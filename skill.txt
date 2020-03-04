@@ -1,4 +1,7 @@
 skill : 
 - javascript
+ * ES6
+ * Node JS
 - php 
 - html
+- css
