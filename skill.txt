@@ -1,7 +1,8 @@
 skill : 
 - javascript
-  * Vue
-  * Angular
+ * ES6
+ * Node JS
 - php 
   * CI
 - html
+- css
