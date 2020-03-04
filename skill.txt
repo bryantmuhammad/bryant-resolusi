@@ -3,5 +3,6 @@ skill :
  * ES6
  * Node JS
 - php 
+  * CI
 - html
 - css
