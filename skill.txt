@@ -1,4 +1,7 @@
 skill : 
 - javascript
+  * Vue
+  * Angular
 - php 
+  * CI
 - html
