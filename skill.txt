@@ -2,6 +2,8 @@ skill :
 - javascript
  * ES6
  * Node JS
+ * react js
+ * vue js
 - php 
   * CI
 - html
